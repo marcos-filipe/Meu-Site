@@ -578,7 +578,7 @@ margin-left: 0;
 @media screen and (max-width: 500px){
 	.header{
 		height: 700px;
-		background-attachment: none;
+		background-attachment: local;
 	}
 
 .h-main{
