@@ -24,7 +24,7 @@ li{
 
 body{
 	height: 100%;
-	font-family: cursive;
+	font-family: Tahoma;
 
 }
 
@@ -285,7 +285,7 @@ body{
 	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 	*/
 	background-color: #35363A;
-	background-image: url('images/sobre-mim2.png');
+	background-image: url('images/sobre-mim.png');
 	background-size: cover;
 	background-position: 50% 20%;
 	background-repeat: no-repeat;
@@ -672,7 +672,7 @@ margin-left: 0;
 
 @media screen and (max-width: 375px){
 	.about-main .about-img{
-	width: 98%;
+	width: 88%;
 	height: 300px;
 }
 
