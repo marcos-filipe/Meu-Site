@@ -279,11 +279,6 @@ body{
 	border-radius: 500px;
 	margin-top: 4%;
 	margin-left: 4%;
-	/*
-	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-	*/
 	background-color: #35363A;
 	background-image: url('images/sobre-mim.png');
 	background-size: cover;
@@ -465,9 +460,9 @@ hr{
 
 footer{
 	   width: 50%;
-	   height: 70px;
-	   padding-top: 23px;
 	   margin: 0 auto;
+	   padding-top: 10px;
+	   padding-bottom: 10px;
 }
 
 
@@ -477,8 +472,9 @@ footer .img-footer{
 	height: 40px;
 	background-image: url('images/logo-page.png');
 	background-size: contain;
+	background-position: center;
 	background-repeat: no-repeat;
-	
+	margin: 0 auto;	
 }
 
 
