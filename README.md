@@ -1,5 +1,5 @@
-# Meu Site
+# Meu Portfólio
 
-https://marcos-filipe.github.io/Meu-Site/
+https://marcos-filipe.github.io/portfolio/
 
  Meu site com projetos desenvolvidos para portfólio.
